@@ -96,7 +96,7 @@ You might find projects like:
 ## 📫 Get in Touch
 
 - 💬 Feel free to open an issue or discussion on any repo if you have feedback or ideas  
-- ✉️ You can also reach me via email (check my GitHub profile)  
+- ✉️ You can also reach me via Email/Instagram (check my GitHub profile)  
 
 Thanks for visiting my profile! ⭐  
 If you like something here, consider leaving a star or sharing feedback — I’m always learning.

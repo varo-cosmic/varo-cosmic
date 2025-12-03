@@ -81,15 +81,26 @@ You might find projects like:
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varo-cosmic&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=varo-cosmic&show_icons=true&theme=tokyonight"
+    alt="Varo's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varo-cosmic&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=varo-cosmic&theme=tokyonight&date_format=j%20M%5B%20Y%5D"
+      alt="Varo's GitHub Streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varo-cosmic&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=varo-cosmic&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
 
 ---

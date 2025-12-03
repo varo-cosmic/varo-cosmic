@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Junior Web Developer</b> • <b>Aspiring Prompt Engineer</b> • <b>Cyber Security Learner</b>
-  <img src="https://github.com/user-attachments/assets/89787f4b-fb98-407a-b8fe-cd556a3098ec" alt="Frieren" />
 </p>
+<p align="center"><img src="https://github.com/user-attachments/assets/89787f4b-fb98-407a-b8fe-cd556a3098ec" alt="Frieren" /></p>
 
 ---
 

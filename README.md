@@ -81,7 +81,7 @@ You might find projects like:
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varo-cosmic&show_icons=true&theme=tokyonight&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varo-cosmic" />
 </p>
 
 <p align="center">

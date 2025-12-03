@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Varo 👋</h1>
+<h1 align="center">Hi, I'm Alvaro 👋</h1>
 
 <p align="center">
   <b>Junior Web Developer</b> • <b>Aspiring Prompt Engineer</b> • <b>Cyber Security Learner</b>

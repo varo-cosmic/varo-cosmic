@@ -101,7 +101,7 @@ You might find projects like:
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=varo-cosmic"
+      src="https://streak-stats.demolab.com?user=varo-cosmic&theme=tokyonight-duo&border_radius=4&short_numbers=true&exclude_days=Sun%2CSat"
       alt="Varo's GitHub Streak"
     />
   </a>

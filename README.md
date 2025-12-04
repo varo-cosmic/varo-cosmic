@@ -107,6 +107,24 @@ You might find projects like:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/varo-cosmic/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <img
+      src="https://raw.githubusercontent.com/varo-cosmic/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+      alt="Varo's languages"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/varo-cosmic/github-stats/master/generated/languages.svg#gh-light-mode-only">
+    <img
+      src="https://raw.githubusercontent.com/varo-cosmic/github-stats/master/generated/languages.svg#gh-light-mode-only"
+      alt="Varo's languages"
+    />
+  </a>
+</p>
+
 ---
 
 ## 📫 Get in Touch

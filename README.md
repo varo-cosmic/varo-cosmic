@@ -83,7 +83,7 @@ You might find projects like:
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=varo-cosmic&theme=tokyonight&date_format=j%20M%5B%20Y%5D"
+      src="https://streak-stats.demolab.com?user=varo-cosmic"
       alt="Varo's GitHub Streak"
     />
   </a>

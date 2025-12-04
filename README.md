@@ -81,6 +81,24 @@ You might find projects like:
 ## 📊 GitHub Overview
 
 <p align="center">
+  <a href="https://raw.githubusercontent.com/varo-cosmic/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img
+      src="https://raw.githubusercontent.com/varo-cosmic/github-stats/master/generated/overview.svg#gh-dark-mode-only"
+      alt="Varo's stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/varo-cosmic/github-stats/master/generated/overview.svg#gh-light-mode-only">
+    <img
+      src="https://raw.githubusercontent.com/varo-cosmic/github-stats/master/generated/overview.svg#gh-light-mode-only"
+      alt="Varo's stats"
+    />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img
       src="https://streak-stats.demolab.com?user=varo-cosmic"

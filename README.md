@@ -101,7 +101,7 @@ You might find projects like:
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://github-readme-streak-stats-theta-nine.vercel.app?user=varocosmic&theme=tokyonight"
+      src="https://github-readme-streak-stats-theta-nine.vercel.app?user=varo-cosmic&theme=tokyonight"
       alt="Varo's GitHub Streak"
     />
   </a>
